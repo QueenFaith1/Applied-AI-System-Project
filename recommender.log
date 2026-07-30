@@ -1,0 +1,31 @@
+2026-07-30 19:05:32,406 - Loaded 15 songs
+2026-07-30 19:05:35,304 - Running profile: Celebration: I just got a promotion and wan... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:05:35,306 - Successfully generated 5 recommendations
+2026-07-30 19:05:35,307 - Running profile: Study: I need to focus and study, som... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:05:35,311 - Successfully generated 5 recommendations
+2026-07-30 19:05:35,312 - Running profile: Nostalgic: I am feeling nostalgic and wan... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:05:35,346 - Successfully generated 5 recommendations
+2026-07-30 19:05:45,861 - Loaded 15 songs
+2026-07-30 19:05:48,550 - Running profile: Celebration: I just got a promotion and wan... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:05:48,552 - Successfully generated 5 recommendations
+2026-07-30 19:05:48,552 - Running profile: Study: I need to focus and study, som... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:05:48,552 - Successfully generated 5 recommendations
+2026-07-30 19:05:48,552 - Running profile: Nostalgic: I am feeling nostalgic and wan... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:05:48,564 - Successfully generated 5 recommendations
+2026-07-30 19:25:06,303 - Loaded 15 songs
+2026-07-30 19:25:09,215 - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-07-30 19:25:11,107 - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-07-30 19:25:13,081 - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-07-30 19:25:13,081 - Running profile: Celebration: I just got a promotion and wan... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:25:13,081 - Successfully generated 5 recommendations
+2026-07-30 19:25:13,096 - Running profile: Study: I need to focus and study, som... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:25:13,097 - Successfully generated 5 recommendations
+2026-07-30 19:25:13,097 - Running profile: Nostalgic: I am feeling nostalgic and wan... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+2026-07-30 19:25:13,173 - Successfully generated 5 recommendations
+2026-07-30 19:27:25,768 - Loaded 15 songs
+2026-07-30 19:27:25,806 - Running profile: Celebration: I just got a promotion and wan... with prefs: {'genre': 'pop', 'mood': 'happy', 'energy': 0.85}
+2026-07-30 19:27:25,855 - Successfully generated 5 recommendations
+2026-07-30 19:27:25,858 - Running profile: Study: I need to focus and study, som... with prefs: {'genre': 'lofi', 'mood': 'focused', 'energy': 0.35}
+2026-07-30 19:27:26,103 - Successfully generated 5 recommendations
+2026-07-30 19:27:26,105 - Running profile: Nostalgic: I am feeling nostalgic and wan... with prefs: {'genre': 'folk', 'mood': 'nostalgic', 'energy': 0.4}
+2026-07-30 19:27:26,191 - Successfully generated 5 recommendations
