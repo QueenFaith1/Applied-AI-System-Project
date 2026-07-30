@@ -1,0 +1,14 @@
+flowchart TD
+    A[User Input - Plain Text Mood Description] --> B[Claude AI - Natural Language Parser]
+    B --> C[User Profile Generator]
+    C --> D[Music Catalog - songs.csv]
+    D --> E[Score Song Function]
+    E --> F[Recommend Songs Function]
+    F --> G[Ranked Results with Explanations]
+    G --> H[Tabulate Visual Output]
+    
+    I[Guardrails] --> B
+    I --> E
+    J[Error Handler] --> D
+    K[Reliability Tests] --> E
+    K --> F
